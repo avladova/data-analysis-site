@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Термины — Весна
+title: Glossary \ Термины — Весна
 permalink: /spring/glossary/
 ---
 
-[← Назад к весеннему семестру]({{ "/spring/" | relative_url }})
+[← Back \ Назад]({{ "/spring/" | relative_url }})
 
 ### Descriptive Statistics - Описательная статистика
 
