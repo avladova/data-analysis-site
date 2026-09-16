@@ -1,0 +1,14 @@
+title: Math Gamification — Data Analysis
+description: >-
+  Materials for foreign and Russian-speaking students studying the Data Analysis course in English.
+  Материалы для курса «Анализ данных»: теория вероятностей, математическая статистика.
+lang: ru
+theme: minima
+show_excerpts: false
+
+header_pages:
+  - autumn/index.md
+  - spring/index.md
+  - resources.md
+
+# Полный план структуры сайта см. в TODO.md
