@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Общие материалы
+title: Common materials \ Общие материалы
 permalink: /resources/
 ---
 
-## Учебники и методички
+## Test generator \ Генератор тестов
+
+[avladova/test-generator](https://github.com/avladova/test-generator) — веб-генератор тестов
+
+## Textbooks & manuals \ Учебники и методички
 
 - [Пыркина О.Е. Probability Theory and Mathematical Statistic for Applications in Data Analysis. — М.: Prometej, 2023. — 582 с.](http://rusneo.fa.ru:8080/pwbo/detail?db=BOOKIN&id=RU%5CFA%5Cbookin5245)
 - [D.P. Bertsekas, J.N. Tsitsiklis. Introduction to Probability. MIT, 2002. — 412 p.](https://www.academia.edu/37484048/Introduction_to_Probability)
@@ -21,18 +25,18 @@ permalink: /resources/
 - [Глебов В.И., Криволапов С.Я. Методические указания и задания для самостоятельной работы студентов по математической статистике. — М.: Финансовый университет, 2015.](https://drive.google.com/file/d/1WZ4E54ZMtFeVTe0ZW7sMbSIlMw0tq-Zb/view)
 - [Зададаев С.А., Левченко К.Г. Анализ данных: теория вероятностей. Учебно-методическое пособие для подготовки к зачёту, 2018.](https://disk.yandex.ru/i/La4Ocz-lkl5SXw)
 
-## Софт
+## Software \ Софт
 
 - [posit.cloud](https://posit.cloud/) — бесплатная облачная версия R и RStudio
 - Бесплатная десктопная версия: [R](https://cran.r-project.org/), [RStudio](https://rstudio.com/products/rstudio/download/#download)
 - [Google Colab](https://colab.research.google.com/) — бесплатный облачный Python
 - [campus.fa.ru](https://campus.fa.ru/) — домашние задания, классные работы, тесты, экзамен
 
-## Конференции
+## Conferences \ Конференции
 
 - Конкурс студенческих работ по рынку облигаций от Cbonds (до 3 студентов, бакалавриат/магистратура СНГ). Регистрация до 30 апреля 2026, работа — до 30 июня 2026, на competition@cbonds.info. Подробности: [cbonds.ru](https://cbonds.ru/news/3261157/)
 
-## Мониторы активов / скринеры
+## Stock screeners \ Мониторы активов / скринеры
 
 [Investing](https://ru.investing.com/stock-screener/) · [Cbonds](https://cbonds.ru/) · [Yahoo Finance](https://finance.yahoo.com/screener/) · [TradingView](https://ru.tradingview.com/screener/) · [PortfolioVisualizer](http://www.portfoliovisualizer.com/)
 
@@ -41,7 +45,7 @@ permalink: /resources/
 - [T-Invest API](https://developer.tbank.ru/invest/intro/intro) — бесплатный gRPC-доступ к Т-Инвестициям
 - [Finam AI-скринер](https://ai.finam.ru/) — с бэктестом стратегий
 
-## Фильмы
+## Movies \ Фильмы
 
 - «Moneyball» / «Человек, который изменил всё» — многофакторная регрессия
 - «21» / «Двадцать одно» — условная вероятность (осенний семестр)
