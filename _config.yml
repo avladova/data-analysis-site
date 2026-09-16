@@ -3,6 +3,8 @@ description: >-
   Materials for foreign and Russian-speaking students studying the Data Analysis course in English.
   Материалы для курса «Анализ данных»: теория вероятностей, математическая статистика.
 lang: ru
+url: "https://avladova.github.io"
+baseurl: "/data-analysis-site"
 theme: minima
 show_excerpts: false
 
