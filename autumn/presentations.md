@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Презентации — Осень
+title: Presentations & recorded seminars \ Презентации и записи — Осень
 permalink: /autumn/presentations/
 ---
 
-[← Назад к осеннему семестру]({{ "/autumn/" | relative_url }})
+[← Back \ Назад]({{ "/autumn/" | relative_url }})
 
-## Воркшопы по теории вероятностей
+## Workshops \ Воркшопы по теории вероятностей
 
 - [Workshop 1 — Basic Statistics](https://disk.yandex.ru/d/TINnE9azebVjCg)
 - [Workshop 2 — Combinatorics](https://disk.yandex.ru/i/hicx18OutVJh9A)
@@ -26,11 +26,11 @@ permalink: /autumn/presentations/
 - [Workshop 16 — Covariance & Correlation](https://disk.yandex.com/d/qN6v7Ua8KHLpeg)
 - [Workshop 17 — Jointly Distributed Discrete Random Variables](https://disk.yandex.ru/i/wydiZcQKpUJkqA)
 
-## Central limit theorem
+## Central limit theorem \ Центральная предельная теорема
 
 [Basic Measurements (MS Forms)](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=rprGyLoy0UOfWfmMlfsie1WAQMJVLJ9IuPVfQE26tidUMUpQMEJRSTczQjZZTTNQVE00UjJKODJPVy4u&analysis=false)
 
-## Записи семинаров по теории вероятности
+## Recorded seminars \ Записи семинаров по теории вероятности
 
 - [Матожидание и дисперсия дискретных случайных величин](https://rutube.ru/video/7c3b492e59b706ae7366ef1534c7c0ad/)
 - [Гипергеометрическое, геометрическое и распределение Пуассона](https://rutube.ru/video/5ddb450f733bd86a7f5ea41a948a4142/)

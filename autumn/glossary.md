@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Термины — Осень
+title: Glossary \ Термины — Осень
 permalink: /autumn/glossary/
 ---
 
-[← Назад к осеннему семестру]({{ "/autumn/" | relative_url }})
+[← Back \ Назад]({{ "/autumn/" | relative_url }})
 
 ### Probability - Вероятность
 The chance of an event occurring, expressed as a number between 0 and 1.

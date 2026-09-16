@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Осень — Теория вероятности
+title: Autumn — Probability Theory \ Осень — Теория вероятности
 permalink: /autumn/
 ---
 
-## О курсе
+## Course info \ О курсе
 
-Курс вводит теорию вероятностей и включает 1 лекцию + 1 семинар в неделю.
+The course introduces probability theory and includes 1 lecture + 1 seminar every week. Forms of control: computer test each week, mid-term test at the beginning of November, a creative task, final test at the end of December (last seminar).
 
-**Формы контроля:** еженедельный компьютерный тест, контрольная работа в начале ноября, творческое задание, итоговый тест в конце декабря (последний семинар).
+Курс вводит теорию вероятностей, включает 1 лекцию + 1 семинар в неделю. Формы контроля: еженедельный компьютерный тест, контрольная работа в начале ноября, творческое задание, итоговый тест в конце декабря (последний семинар).
 
-Курс: ENGLISH DATA ANALYSIS 1 на [campus.fa.ru](https://campus.fa.ru/)
+Course \ Курс: ENGLISH DATA ANALYSIS 1 на [campus.fa.ru](https://campus.fa.ru/)
 
-## Разделы
+## Sections \ Разделы
 
-- [Презентации и записи семинаров →]({{ "/autumn/presentations/" | relative_url }})
-- [БРС (балльно-рейтинговая система) →]({{ "/autumn/brs/" | relative_url }})
-- Код — *в разработке*
-- [Тесты →]({{ "/autumn/tests/" | relative_url }})
-- [Термины →]({{ "/autumn/glossary/" | relative_url }})
+- [Presentations & recorded seminars \ Презентации и записи семинаров →]({{ "/autumn/presentations/" | relative_url }})
+- [Code \ Код →]({{ "/autumn/code/" | relative_url }})
+- [Point-rating system (БРС) →]({{ "/autumn/brs/" | relative_url }})
+- [Tests \ Тесты →]({{ "/autumn/tests/" | relative_url }})
+- [Glossary \ Термины →]({{ "/autumn/glossary/" | relative_url }})
 
-## Примеры тем для творческих заданий
+## Creative task topics \ Примеры тем для творческих заданий
 
 - Оценка вероятности дефолта заёмщика по скоринговой модели (биномиальное распределение, формула Байеса)
 - Моделирование числа страховых случаев в портфеле полисов (распределение Пуассона)
@@ -30,13 +30,13 @@ permalink: /autumn/
 - Вероятность попадания налогоплательщика в зону выездной проверки (формула Байеса)
 - Оценка эффективности налогового мониторинга (марковская цепь)
 
-## Комбинаторные игры и предсказания
+## Combinatoric games & predictions \ Комбинаторные игры и предсказания
 
-- [4 в ряд](http://www.min2win.ru/gm.php?id=1839) — разработайте выигрышную стратегию
-- [Игра «Ним»](http://igra.gameintellect.com/flash-games/nim.php?s=1&r=554446)
-- [Половина среднего](https://forms.gle/kd4jEDqNHb2bHfYU6)
-- [Конкурс натуральных чисел](https://forms.gle/ZdKsm1T4Ax91tV2AA)
-- [Законы распределения](https://forms.gle/DY1Lx1spFzB7CZLP8)
-- [Системы случайных величин](https://forms.gle/8Z8X4CSrWUBJbsuh6)
-- [Предложить и разделить](https://forms.gle/9YPw48PCdDSpQ4U68)
-- [Ночь перед экзаменом](https://forms.gle/nQGy61vjwk5SptQy8)
+- [4 in a row \ 4 в ряд](http://www.min2win.ru/gm.php?id=1839) — develop a winning strategy \ разработайте выигрышную стратегию
+- [Nim \ Игра «Ним»](http://igra.gameintellect.com/flash-games/nim.php?s=1&r=554446)
+- [Half of the average \ Половина среднего](https://forms.gle/kd4jEDqNHb2bHfYU6)
+- [Natural numbers contest \ Конкурс натуральных чисел](https://forms.gle/ZdKsm1T4Ax91tV2AA)
+- [Distribution laws \ Законы распределения](https://forms.gle/DY1Lx1spFzB7CZLP8)
+- [Systems of random variables \ Системы случайных величин](https://forms.gle/8Z8X4CSrWUBJbsuh6)
+- [Offer & split \ Предложить и разделить](https://forms.gle/9YPw48PCdDSpQ4U68)
+- [Night before the exam \ Ночь перед экзаменом](https://forms.gle/nQGy61vjwk5SptQy8)
