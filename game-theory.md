@@ -65,5 +65,3 @@ permalink: /game-theory/
 - [Lecture: Minimax & Maximin Algorithms](https://web.microsoftstream.com/video/2cc64246-b266-45fd-8fb0-3fdcc1b3937c)
 
 ---
-
-> На оригинальной странице [vladova.ru/Game-Theory](http://vladova.ru/Game-Theory) есть ещё несколько математических лимериков (стихов) — по правилам авторского права я не могу их сюда копировать даже с вашего собственного сайта. Перенесите их вручную, если нужно, или оставьте ссылку на старую страницу.
