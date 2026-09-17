@@ -12,5 +12,7 @@ header_pages:
   - autumn/index.md
   - spring/index.md
   - resources.md
+  - game-theory.md
+  - about.md
 
 # Полный план структуры сайта см. в TODO.md

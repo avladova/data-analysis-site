@@ -25,3 +25,10 @@ The course introduces mathematical statistics: computer classwork and homework, 
 ## [Common materials \ Общие материалы →]({{ "/resources/" | relative_url }})
 
 Textbooks, manuals, software, conferences, stock screeners and movies — shared for both semesters \ Учебники, методички, софт, конференции, скринеры активов и фильмы — общие для обоих семестров.
+
+## Other courses \ Другие курсы
+
+- [Game Theory \ Теория игр →]({{ "/game-theory/" | relative_url }})
+- [Quizzes \ Игровые задания →]({{ "/quizzes/" | relative_url }})
+
+## [About \ Об авторе →]({{ "/about/" | relative_url }})
