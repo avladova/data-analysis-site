@@ -15,9 +15,8 @@ The course introduces mathematical statistics: computer classwork and homework, 
 
 ## Sections \ Разделы
 
+- [Presentations \ Презентации →]({{ "/spring/presentations/" | relative_url }})
+- [Code \ Код →]({{ "/spring/code/" | relative_url }})
 - [Recorded seminars \ Записи семинаров →]({{ "/spring/seminars/" | relative_url }})
 - [Tests \ Тесты →]({{ "/spring/tests/" | relative_url }})
 - [Glossary \ Термины →]({{ "/spring/glossary/" | relative_url }})
-- Presentations \ Презентации — *в разработке*
-- Point-rating system (БРС) — *в разработке*
-- Code \ Код — *в разработке*
