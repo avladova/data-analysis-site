@@ -18,10 +18,6 @@ Financial University under the Government of Russian Federation
 - 2022 — Экономический университет в Братиславе \ University of Economics in Bratislava, Slovakia
 - 2018, 2019, 2021, 2025 — Белорусско-Российский университет, г. Могилёв, Беларусь
 
-## Contact \ Контакты
-
-*(форма обратной связи со старого сайта — можно перенести отдельно как HTML-форму, здесь не переносится)*
-
 ## Data science projects & publications \ Проекты и публикации
 
 **2026**
